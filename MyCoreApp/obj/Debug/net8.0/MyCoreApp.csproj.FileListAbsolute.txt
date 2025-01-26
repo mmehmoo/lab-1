@@ -32,3 +32,4 @@ C:\Users\manah\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\refint\MyCoreAp
 C:\Users\manah\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
 C:\Users\manah\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
 C:\Users\manah\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
+C:\Users\manah\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
